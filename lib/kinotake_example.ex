@@ -1,0 +1,2 @@
+defmodule KinotakeExample do
+end
